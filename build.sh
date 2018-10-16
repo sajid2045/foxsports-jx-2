@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#some comments
+
 set -euo pipefail
 
 SA=~/.gke_sa.json
